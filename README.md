@@ -21,9 +21,9 @@ The primary objectives of this project were to:
    - Calculate Week-on-Week (WoW) change percentages for revenue, occupancy, ADR, RevPAR, realization, and Daily Sellable Room Nights (DSRN) to track performance trends over time.
 
 4. **Visualizations and Insights**:
-   -Visualized revenue realization and ADR by platform to compare booking channels' performance.
-   -Presented trend analysis charts for revenue, occupancy, ADR, RevPAR, realization, and DSRN.
-   -Provided a breakdown of revenue by hotel category and dynamic filtering options for city, room class, month-year, and week number.
+   - Visualized revenue realization and ADR by platform to compare booking channels' performance.
+   - Presented trend analysis charts for revenue, occupancy, ADR, RevPAR, realization, and DSRN.
+   - Provided a breakdown of revenue by hotel category and dynamic filtering options for city, room class, month-year, and week number.
 
 ## Dashboard Highlights:
 
