@@ -35,6 +35,10 @@ The primary objectives of this project were to:
 
 - **Dynamic Filters**: Filter options by city, room class, month-year, and week number, allowing users to drill down into specific data subsets and customize their analysis.
 
+![image](https://github.com/ranausman01/PowerBi_Portfolio_Project2/assets/161476245/c152aece-e318-4616-9738-15bd7bd1106c)
+![image](https://github.com/ranausman01/PowerBi_Portfolio_Project2/assets/161476245/fc474226-6f80-425e-8ed6-c6d946a02c35)
+
+
 ## Repository Contents:
 
 - **CSV Files**: Raw data files containing information on hotels, rooms, and bookings.
